@@ -2,7 +2,9 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab6.3.dll"</Assembly>		
-		<AddInId>E3783688-2329-4CA4-A6FB-8CD6D8C5E8FA</AddInId>
+		<AddInId>
+			DA8BAECE-1D00-43CD-9EF4-A2D8E388EA2B
+		</AddInId>
 		<FullClassName>RevitAPITraining_lab6._3.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Расстановка элементов между точками</Text>
